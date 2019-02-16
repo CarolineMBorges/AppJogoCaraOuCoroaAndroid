@@ -1,0 +1,5 @@
+Este jogo faz o sorteio entre as opções: cara e coroa de uma moeda e é exibido com a imagem correspondente.
+No projeto usa-se o Bundle para passar dados entre componentes Android através da classe Intent.
+
+getExtra("chave") serve para recuperar o valor enviado a uma Activity.
+putExtra("chave","valor") serve para adicionar o valor de um objeto para uma intent para enviar para outra Activity.
